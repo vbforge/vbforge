@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [LeetCode Solutions](https://vbforge.github.io/leet-code-solutions/)
+### 🧩 [LeetCode](https://vbforge.github.io/leet-code-solutions/)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions)
 [![Pages](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/)
 
