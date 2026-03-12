@@ -25,12 +25,6 @@
 <td width="50%" valign="top">
 
 ### 🧩 [LeetCode Solutions](https://vbforge.github.io/leet-code-solutions/)
-> Structured problem solving — tracked, tested, deployed
-
-- **Java 21** · **JUnit 5** · **Maven**
-- Auto-generated README & GitHub Pages on every push
-- Organized by topic: Arrays, Strings, Linked Lists, Math
-
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions)
 [![Pages](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/)
 
@@ -38,12 +32,6 @@
 <td width="50%" valign="top">
 
 ### 🛠️ [Sandbox](https://vbforge.github.io/vbforge-sandbox/)
-> Experiments, prototypes & learning in progress
-
-- Spring Boot · Docker · CI/CD pipelines
-- Security, testing patterns & architecture spikes
-- Real-world configs: Flyway, Testcontainers, E2E
-
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)
 [![Pages](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
 
