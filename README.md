@@ -14,15 +14,15 @@
 ##  Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,spring,hibernate,mysql,docker,git,github,githubactions"/>
-    <img src="https://skillicons.dev/icons?i=maven,idea,visualstudio,postman,jenkins,grafana,prometheus,kafka,powershell&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,html,css,spring,hibernate,mysql,docker,aws,git,github,githubactions,react"/>
+    <img src="https://skillicons.dev/icons?i=maven,idea,visualstudio,regex,postman,jenkins,grafana,prometheus,gmail,kafka,linux,powershell"/>
   </a>
 </p>
 
 ## Projects
 
-### 🧩 [LeetCode](https://vbforge.github.io/leet-code-solutions/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions) [![Pages](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/)
+### 🧩 [LeetCode       ](https://vbforge.github.io/leet-code-solutions/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions) [![Pages](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/) 
 
-### 🛠️ [Sandbox](https://vbforge.github.io/vbforge-sandbox/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)   [![Pages](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
+### 🛠️ [Sandbox        ](https://vbforge.github.io/vbforge-sandbox/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)   [![Pages](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
 
-### 📖 [Books Tracker](http://3.70.234.140:8080/login) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/books-tracker)  [![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)](http://3.70.234.140:8080/login)
+### 📖 [Books Tracker  ](http://3.70.234.140:8080/login) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/books-tracker)  [![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)](http://3.70.234.140:8080/login)
