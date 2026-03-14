@@ -31,4 +31,4 @@
 
 ### [Football-Stats_____](https://hub.docker.com/r/vladbogdadocker/football-stats) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/football-stats)  [![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/football-stats)
 
-### [Fewster-App_______](https://hub.docker.com/r/vladbogdadocker/fewster) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/fewster-app)  [![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/fewster)
+### [Fewster-App______](https://hub.docker.com/r/vladbogdadocker/fewster) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/fewster-app)  [![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/fewster)
