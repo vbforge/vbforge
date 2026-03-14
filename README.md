@@ -21,6 +21,100 @@
 
 ## Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 LeetCode Solutions
+Algorithm problems solved in Java, organized by topic and difficulty with explanations.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions)
+[![Live](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/)
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Sandbox
+Experimental playground for new libraries, design patterns, and proof-of-concept code.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)
+[![Live](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Books Tracker
+Full-stack reading tracker — Spring Boot MVC, Spring Security, MySQL. Deployed live on AWS EC2.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/books-tracker)
+[![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)](http://3.70.234.140:8080/login)
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 Projects Tracker
+Full-stack project management app — Spring Boot, Thymeleaf, MySQL. Containerised with Docker.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/projects-tracker)
+[![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/projects-tracker)
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚽ Football Stats
+Football statistics aggregator with live data. Spring Boot backend, containerised with Docker.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/football-stats)
+[![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/football-stats)
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔗 Fewster — URL Shortener
+Production-grade URL shortener — Spring Security, Flyway migrations, typed exceptions, dark navy UI.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/fewster-app)
+[![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/fewster)
+<br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ### [LeetCode__________](https://vbforge.github.io/leet-code-solutions/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/leet-code-solutions) [![Pages](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/leet-code-solutions/) 
 
 ### [Sandbox___________](https://vbforge.github.io/vbforge-sandbox/) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)   [![Pages](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
