@@ -42,7 +42,7 @@ Algorithm problems solved in Java, organized by topic and difficulty with explan
 Experimental playground for new libraries, design patterns, and proof-of-concept code.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/vbforge-sandbox)
-[![Live](https://img.shields.io/badge/Live_Page-58a6ff?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
+[![Live](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/vbforge-sandbox/)
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
