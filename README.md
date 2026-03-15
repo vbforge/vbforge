@@ -111,4 +111,30 @@ Production-grade URL shortener — Spring Security, Flyway migrations, typed exc
 </td>
 
 </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Java Core
+Comprehensive Java Core learning modules with practical examples, tests, and hands-on tasks
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/java-core)
+[![Live](https://img.shields.io/badge/Live_Page-00b8a3?style=flat-square&logo=githubpages&logoColor=white)](https://vbforge.github.io/java-core/)
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### project
+short description
+
+`links`
+<br>
+`tech stack`
+
+</td>
+
+</tr>
 </table>
