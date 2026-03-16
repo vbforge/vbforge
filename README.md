@@ -132,7 +132,7 @@ A dark-themed quote streaming web app built with Spring Boot, Thymeleaf, and Pos
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/quote-stream)
 [![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/quote-stream)
-[![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)]([http://3.70.234.140:8080/login](https://quote-stream.onrender.com/))
+[![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)](https://quote-stream.onrender.com/)
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
