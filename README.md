@@ -126,13 +126,17 @@ Comprehensive Java Core learning modules with practical examples, tests, and han
 </td>
 
 <td width="50%" valign="top">
+  
+### 📜 Quote Stream
+A dark-themed quote streaming web app built with Spring Boot, Thymeleaf, and PostgreSQL. Deployed live on Render.
 
-### project
-short description
-
-`links`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vbforge/quote-stream)
+[![Docker](https://img.shields.io/badge/Pull_Image-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/vladbogdadocker/quote-stream)
+[![Live](https://img.shields.io/badge/Live_App-2ea44f?style=flat-square&logo=springboot&logoColor=white)]([http://3.70.234.140:8080/login](https://quote-stream.onrender.com/))
 <br>
-`tech stack`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 </td>
 
