@@ -9,9 +9,8 @@
 </p>
 
 <p align="left">
-<img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vbforge&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-<img height="140" src="https://streak-stats.demolab.com?user=vbforge&theme=github-dark-blue&hide_border=true" />
-<img height="110" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vbforge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vbforge&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="170" src="https://streak-stats.demolab.com?user=vbforge&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
