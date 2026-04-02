@@ -8,8 +8,13 @@
   </a>
 </p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbforge&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />&nbsp;&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=vbforge&theme=github-dark-blue&hide_border=true" />
+<p align="left">
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vbforge&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vbforge&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="140" src="https://streak-stats.demolab.com?user=vbforge&theme=github-dark-blue&hide_border=true" />
+</p>
+
+
 
 ##  Tech stack
 <p align="left">
